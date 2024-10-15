@@ -1,5 +1,5 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
-import Banner from "../assets/girl.png";
+import Banner from "../assets/Girl.png";
 
 function About() {
   const textItem = (text) => {
