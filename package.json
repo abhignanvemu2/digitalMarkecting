@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite --host"
+    "start": "vite"
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
